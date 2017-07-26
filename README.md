@@ -1,7 +1,5 @@
 # Portfolio2
 
-My portfolio.
-
 ___
 
 # Developed By:octocat:
