@@ -1,6 +1,6 @@
 # Portfolio2
 
-[file:///Users/christy/Desktop/ga/christy/Portfolio2/index.html]
+file:///Users/christy/Desktop/ga/christy/Portfolio2/index.html
 
 ___
 
