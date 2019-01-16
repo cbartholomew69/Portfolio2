@@ -1,11 +1,6 @@
 # Portfolio2
 
-file:///Users/christy/Desktop/ga/christy/Portfolio2/index.html
-
-___
-
-
-This is my portfolio for your review.
+ https://cbartholomew69.github.io/Portfolio2/
 
 ___
 
